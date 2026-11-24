@@ -1,0 +1,1 @@
+{"description":"A tiny Node program that picks the best original fortune-cookie line for a software developer and writes it to /output/entry.txt.","license":"MIT","main":"main.ts","name":"fortune-cookie-dev-wisdom","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
